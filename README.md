@@ -9,16 +9,16 @@ understandable, applying the knowledge adquired through the course.
 
 ## Files and folders included in the projecte
 
-  - Folder UCI HAR Dataset:
+  - Folder UCI HAR Dataset: Original data sets to clean and tidy.
 
-  - File Run\_Analysis.R:
+  - File Run\_Analysis.R: R script to do the job.
 
-  - README.md: this file
+  - README.md: this file.
 
   - CodeBook.md: Code Book including the variables of the resulting data
     set.
 
-  - File tidy\_data\_set.txt:
+  - File tidy\_data\_set.txt: resulting data set.
 
 ## Steps to clean and tidy data
 
