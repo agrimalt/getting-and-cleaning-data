@@ -11,15 +11,15 @@ The purpose of this project is to get different files with data, merge them appr
 
 ## Files and folders included in the projecte
 
-* Folder UCI HAR Dataset: 
+* Folder UCI HAR Dataset: Original data sets to clean and tidy.
 
-* File Run_Analysis.R:
+* File Run_Analysis.R: R script to do the job.
 
-* README.md: this file
+* README.md: this file.
 
 * CodeBook.md: Code Book including the variables of the resulting data set.
 
-* File tidy_data_set.txt: 
+* File tidy_data_set.txt: resulting data set.
 
 
 ## Steps to clean and tidy data
